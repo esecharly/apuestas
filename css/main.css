@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Slenco";
+    src: url("../fonts/Slenco-Black\ demo.otf");
+}
+
+.bg-gray{
+    background-color: #2b2b2b;
+}
+
+.bg-light-dark{
+    background-color: #545a5e;
+}
+
+.bg-light-gray{
+    background-color: #f0f0f0;
+}
+
+.text-gray{
+    color: #2b2b2b;
+}
+
+.link-dark{
+    text-decoration: none;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #ffffff;
+}
+
+.navbar{
+    font-family: "Slenco";
+}
+
+.font-slenco{
+    font-family: "Slenco";
+}
+
+.btn-success{
+    background-color: #00940c;
+    border-color: #00940c;
+    border-radius: 0;
+}
+
+.btn-success:hover{
+    background-color: #00ab0e;
+    border-color: #00ab0e;
+    border-radius: 0;
+}
+
+.btn-outline-success{
+    background-color: #ffffff;
+    color: #00940c;
+    border-color: #00940c;
+    border-radius: 0;
+}
+
+.btn-outline-success:hover{
+    background-color: #00ab0e;
+    border-color: #00ab0e;
+    border-radius: 0;
+}
