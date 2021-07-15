@@ -35,12 +35,12 @@
                     case 'soccer': 
                         require_once 'view/deportes/soccer.php';
                         break;
-                    case 'usuariosActivos': 
-                        require_once 'view/admin/usuariosActivos.php';
-                        break;
-                    case 'registroAlumnos': 
-                        require_once 'view/admin/tablaAlumno.php';
-                        break;           
+                    case 'box': 
+                        require_once 'view/deportes/box.php';
+                        break;       
+                    case 'americano': 
+                        require_once 'view/deportes/americano.php';
+                        break;       
                     default:
                         require_once 'view/404.php';
                         break;

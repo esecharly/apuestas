@@ -12,7 +12,7 @@
                 </a>
             </div>
             <div class="col-md-4 text-center">
-                <a href="#" class="link-dark">
+                <a href="box" class="link-dark">
                     <i class="fas fa-hand-rock fa-10x"></i>
                     <p><h2 class="font-slenco">Box</h2></p>
                 </a>
