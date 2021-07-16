@@ -31,7 +31,7 @@
                 <p><a href="registro" class="btn btn-success font-slenco fs-2">Registrarme ahora</a></p>
             </div>
             <div class="col-md-7">
-                <img src="img/sports.png" width="700" height="400" alt="">
+                <img src="raw/img/sports.png" width="700" height="400" alt="">
             </div>
         </div>
     </div>
