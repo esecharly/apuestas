@@ -36,4 +36,6 @@
         </div>
     </div>
 
+    <?php require_once 'modalSoccer.php'; ?>
+
     <script src="<?=SERVIDOR;?>controller/funciones_cargarTablaSoccer.js"></script>

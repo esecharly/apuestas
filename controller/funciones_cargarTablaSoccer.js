@@ -31,7 +31,7 @@ $(document).ready(function () {
                 {
                     data: "apostar",
                     render: function (data, type, row) {
-                        return '<span class="btn btn-success btn-sm" data-toggle="modal" data-target="#editarMateriaModal"><i class="fas fa-edit"></i></span>'
+                        return '<span class="btn btn-success btn-sm" data-bs-toggle="modal" data-bs-target="#apostarSoccerModal"><i class="fas fa-edit"></i></span>'
                     }
                 }
             ]
