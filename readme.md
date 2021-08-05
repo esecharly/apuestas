@@ -7,7 +7,7 @@
 * PHP 8 y Apache (junto con las herramientas de desarrollo de XAMPP): https://www.apachefriends.org/es/index.html
 #
 # Configuración Inicial
-### Para poder cargar la página en cualquier equipo es necesario entrar en la carpeta *app* y modificar el archivo *config.php*. Dentro de este archivo se deben modificar las variables **_NOMBRE_SERVIDOR_**, poniendo como valor el nombre de nuestro servidor (por defecto su valor es **_LOCALHOST_**), y la variable **_SERVIDOR_** donde el valor sera la ruta donde se encuentra alojado el proyecto (por defecto su valor es **_http://localhost/apuestas/_**)
+Para poder cargar la página en cualquier equipo es necesario entrar en la carpeta *app* y modificar el archivo *config.php*. Dentro de este archivo se deben modificar las variables **_NOMBRE_SERVIDOR_**, poniendo como valor el nombre de nuestro servidor (por defecto su valor es **_LOCALHOST_**), y la variable **_SERVIDOR_** donde el valor sera la ruta donde se encuentra alojado el proyecto (por defecto su valor es **_http://localhost/apuestas/_**)
 #
 # ![config](/raw/img/readme/config.png)
 # Estructura de carpetas
@@ -27,8 +27,8 @@
 * **_index.php:_** Este archivo es el indice del proyecto, a través de él podemos acceder a todas las partes de la página web.
 #
 # Agregado de vistas
-### Para agregar vistas es necesario crear la vista en la carpeta **_view_** y dentro de su carpeta correspondiente, luego debemos agregar un caso al **_index.php_** para poder mostrar la vista y que además funcione con las URL amigables.
+Para agregar vistas es necesario crear la vista en la carpeta **_view_** y dentro de su carpeta correspondiente, luego debemos agregar un caso al **_index.php_** para poder mostrar la vista y que además funcione con las URL amigables.
 #
 ## Ejemplo:
-### Para cargar una vista llamada _'lucha'_ que esta en la carpeta deportes agregamos lo siguiente:
+Para cargar una vista llamada _'lucha'_ que esta en la carpeta deportes agregamos lo siguiente:
 # ![ejemplo](/raw/img/readme/agregar_vista.png)
