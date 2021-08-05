@@ -41,6 +41,9 @@
                     case 'americano': 
                         require_once 'view/deportes/americano.php';
                         break;       
+                    case 'lucha': 
+                        require_once 'view/deportes/lucha.php';
+                        break;       
                     default:
                         require_once 'view/404.php';
                         break;
